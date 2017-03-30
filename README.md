@@ -1,0 +1,2 @@
+# javascriptAjaxExercise
+Assignment 7 
